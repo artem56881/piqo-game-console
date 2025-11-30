@@ -251,7 +251,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "3813fc3f-abef-48bb-baf9-9c821ab54da8")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -439,7 +439,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "0543f048-5238-4e67-9ff0-51caf113515b")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -557,7 +557,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "4e430448-99c8-439a-9460-2965ce819d56")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -1768,7 +1768,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "978ed227-ce8b-4f94-9785-41685e86c0e8")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -1886,7 +1886,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "92d92014-5eab-476f-8e9e-9186effb1a1a")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -2004,7 +2004,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "d703917f-0646-46a7-ad2b-78f17d35f749")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -11420,7 +11420,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "ac43d35d-ffd4-4904-bd3f-180c672f333b")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -11538,7 +11538,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "631aa0d7-7e38-490e-8e8b-7f185af908d9")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -11792,7 +11792,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "448ca493-e120-4b04-b019-5d60a6665730")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -11910,7 +11910,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "031b1438-49f3-4720-bf91-47d4c9d5c732")
 		)
-		(model "${KIPRJMOD}/3dmodels/silent_smd_button.step"
+		(model "${KIPRJMOD}/silent_smd_button.step"
 			(offset
 				(xyz -45 13.5 1.72)
 			)
@@ -15222,7 +15222,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/HRO  TYPE-C-31-M-12.step"
+		(model "${KIPRJMOD}/HRO  TYPE-C-31-M-12.step"
 			(offset
 				(xyz -4.5 -3.69 0)
 			)
